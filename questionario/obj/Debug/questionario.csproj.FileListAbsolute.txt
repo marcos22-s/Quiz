@@ -1,0 +1,9 @@
+E:\ETEC 2-MODULO\VAL-A.S\questionario\questionario\bin\Debug\questionario.exe.config
+E:\ETEC 2-MODULO\VAL-A.S\questionario\questionario\bin\Debug\questionario.exe
+E:\ETEC 2-MODULO\VAL-A.S\questionario\questionario\bin\Debug\questionario.pdb
+E:\ETEC 2-MODULO\VAL-A.S\questionario\questionario\obj\Debug\questionario.csprojResolveAssemblyReference.cache
+E:\ETEC 2-MODULO\VAL-A.S\questionario\questionario\obj\Debug\questionario.Properties.Resources.resources
+E:\ETEC 2-MODULO\VAL-A.S\questionario\questionario\obj\Debug\questionario.csproj.GenerateResource.Cache
+E:\ETEC 2-MODULO\VAL-A.S\questionario\questionario\obj\Debug\questionario.exe
+E:\ETEC 2-MODULO\VAL-A.S\questionario\questionario\obj\Debug\questionario.pdb
+E:\ETEC 2-MODULO\VAL-A.S\questionario\questionario\obj\Debug\questionario.Form1.resources
